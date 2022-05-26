@@ -1,0 +1,11 @@
+# Configuration of ping tools
+
+# path to pingable ip address list
+IPLIST_PATH: "ipList.txt" 
+
+# time between each ping (in sec)
+TIME_DELAY: 0
+
+# time between whole list ping (in sec)
+# enter '-1' for ping once only
+TIME_DELAY_LIST: -10 
